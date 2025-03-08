@@ -16,9 +16,6 @@ The **Gym Management System** is a web-based application designed to streamline 
 - **Database**: MySQL (phpMyAdmin)  
 - **Server**: XAMPP  
 
-## 📷 Screenshots
-*(Add images or GIFs of your project here for better understanding)*
-
 ## 📂 Installation & Setup
 1. Clone the repository:
    ```sh
@@ -52,7 +49,7 @@ Go to: http://localhost/phpmyadmin/
 3️⃣ Create a New Database
 
 Click on the Databases tab
-Enter database name: mem
+Enter database name: gym
 Select utf8_general_ci as collation
 Click Create
 4️⃣ Import the Database File
